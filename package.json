@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "urlscan-api": "^0.0.4"
+  }
+}
